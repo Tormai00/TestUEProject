@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Ai.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/BP_ThirdPersonCharacter_Ai.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/BP_AiController.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OU/7Q634BH8NJJAVQ2L7AU8TG.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IO/ENVTYHNA5I00T3A7Z17C2W.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F0/9OYK1OF0L5RSQKHGCFZPOP.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6J/7Z3OXM0P8EA8LW4NQ8MVC5.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XU/VI23WB0W6XSIAU5FDCOFUU.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KG/8LER1FCRBXWJ1TWTSHOEI4.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/BB_Ai.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/BT_Ai.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/Task/BTTask_RandomMoveToLocation.uasset",
+				"D:/651310133/unreal/AiProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/12/SHRJFXTNH3ALF0KXK86ZV3.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/Task/BTTask_ClearBlackboard.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/Decorator/BTDecorator_LowSelf.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/Decorator/BTDecorator_LowHP.uasset",
+				"D:/651310133/unreal/AiProject/Content/ThirdPerson/Blueprints/Ai/Decorator/BTDecorator_FullHP.uasset"
+			]
+		}
+	]
+}
